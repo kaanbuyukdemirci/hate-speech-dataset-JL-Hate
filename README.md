@@ -1,5 +1,5 @@
 # About The Project
-This project contains a hate speech dataset that supports sequence and token classification. It also contains the scripts to train a ConvBERT and Distil RoBERTa model, and evaluate the results. You can access the full dataset in *data\initial_data*.
+This project contains a hate speech dataset that supports sequence and token classification. It also contains the scripts to train a ConvBERT and Distil RoBERTa model, and evaluate the results. You can access the full dataset in *data\initial_data*. You can access the annotations in *data\annotated_data*.
 
 # Usage
 Here are the files and their uses:
